@@ -1,3 +1,5 @@
 # ---> Agda
 *.agdai
 
+.emacs.desktop
+*~
